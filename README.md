@@ -26,7 +26,7 @@ Using the provided R script to calculate the least sguares regression, the resul
 
 Thus, the least squares reqression equation is:
 
-   y= ax+b 
+   y= a + bx
    
    y= 101.33-9.30
    
