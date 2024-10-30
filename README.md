@@ -8,16 +8,21 @@ Mean call-to-shock time, x: 2 6 7 9 12
 Survival rate, y: 90 45 30 5 2
 
 A. Construct a scatterplot for these data. How would you describe the relationship between mean call -to-shock time and survival rate?
+
 <img src="scatterplot-image.png" alt="Scatter Plot" width="600"/>
+
+
 The relationship between mean call-to-shock time and Survival rate is negative.
 
 B. Find the equation of the least-squares line.
 
 Using the provided Rscript to calculate the least sguares regression, the result are as follows:
 -** Intercept (a): 101.3285 
+
 -** Slope (b): -9.29562  
 Thus, the least squares reqression equation is:
    y= ax+b 
+   
    y= 101.33-9.30
 C. Use the least-squares line to predict survival rate for a community with a mean call-to-shock time
 of 10 minutes.
