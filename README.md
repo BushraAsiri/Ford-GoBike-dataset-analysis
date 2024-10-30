@@ -4,9 +4,9 @@ in the paper “Improving Survival from Sudden Cardiac Arrest: The Role of Home 
 and x = mean call-to-shock time (minutes) for a cardiac rehabilitation center (in which cardiac arrests occurred while victims were hospitalized and so the call-to-shock time tended 
 to be short) and for four communities of different sizes:
 
-Mean call-to-shock time, x: 2 6 7 9 12
+Mean call-to-shock time, x: 2, 6, 7, 9, 12
 
-Survival rate, y: 90 45 30 5 2
+Survival rate, y: 90, 45, 30, 5, 2
 
 A. Construct a scatterplot for these data. How would you describe the relationship between mean call -to-shock time and survival rate?
 
