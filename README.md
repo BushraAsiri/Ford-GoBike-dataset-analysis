@@ -17,7 +17,7 @@ The relationship between mean call-to-shock time and Survival rate is negative.
 
 B. Find the equation of the least-squares line.
 
-Using the provided Rscript to calculate the least sguares regression, the result are as follows:
+Using the provided R script to calculate the least sguares regression, the result are as follows:
 
 -** Intercept (a): 101.3285 
 
